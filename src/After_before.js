@@ -10,7 +10,7 @@ function After_before() {
                                              <img src={require('./images/after.jpg')} alt=""></img>
                                         </div>
                                         <div className="box_img2">
-                                             <img src={require('./images/after.3.jpg')} alt=""></img>
+                                             <img src={require('./images/after.3 (2).JPG')} alt=""></img>
                                         </div>
                                    </div>
                               </div>

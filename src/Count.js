@@ -16,7 +16,7 @@ const Count = () => {
                               style={{
                                    width: '100%',
                                    fontSize: '60px',
-                                   color: '#fff',
+                                   // color: '#f2edd1',
                                    padding: '',
                                    display: 'flex',
                                    justifyContent: 'center',

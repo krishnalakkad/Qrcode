@@ -11,7 +11,7 @@ const Count = () => {
                <ScrollTrigger onEnter={() => setCounterOn(true)} onExit={() => setCounterOn(false)}>
                     <center className="count_image py-5">
                          <h1 className="py-3">WE Became A Family In....</h1>
-                         <h2 className="m-0 p-0">1year... 11month... 2days</h2>
+                         <h2 className="m-0 p-0">1year.... 11month.... 2days</h2>
                          <center className=""
                               style={{
                                    width: '100%',
